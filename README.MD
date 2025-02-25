@@ -3,7 +3,7 @@
     i.Branch-a. git branch (intersection of all people working on something)<br>
        b. git branch -M(name u want to change recommend=main)<br>
        c.git push origin main/git push -u(used to create shortcut for main) origin main now we will only use git push<br>
-       d.git checkout/-branch name-/ (to navigate)<br>
+       d.git checkout /-branch name-/ (to navigate)<br>
        e.git checkout -b/-new branch name-/  (create new branch)<br>
        f.git branch -d/-branch name-/ (delete branch)
        
