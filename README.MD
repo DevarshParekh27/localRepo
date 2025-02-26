@@ -5,5 +5,4 @@
        c.git push origin main/git push -u(used to create shortcut for main) origin main now we will only use git push<br>
        d.git checkout /-branch name-/ (to navigate)<br>
        e.git checkout -b/-new branch name-/  (create new branch)<br>
-       f.git branch -d/-branch name-/ (delete branch) u cannot delete branch if u are in that branch.
-       
+       f.git branch -d/-branch name-/ (delete branch) u cannot delete branch if u are in that branch.      
